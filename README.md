@@ -3,7 +3,7 @@ This Repository contains a experimental solver for fifteen-puzzle To be specific
 
 **Note 1**: This program does not focus on the optimality rather it focuses on more cases solved.
 
-**Note 2**: The solution generated will have the form : (BoardPiece - Direction)
+**Note 2**: The solution generated will have the form : (BoardPiece - Direction) it will not directly solve but rather finds a solution for the given board.
 
 Example board1Soution.txt: 
 
@@ -12,8 +12,12 @@ Example board1Soution.txt:
 
 **Note 3:** The application reads the boards from the "testcases" folder and writes the solution in the given boardName inside the "solutions" folder.
 
-**Note 4:** I included 10 different test cases with various boars sizes less than 9x9, which will work optimally but feel free to add more under the "./testcases". 
+**Note 4:** I included 10 different test cases with various boars sizes less than 9x9, which will work optimally but feel free to add more under the "./testcases" but be sure to follow the given format for the boards. (board size on the first line, then the board with the position for zero empty)
+
+![image](https://user-images.githubusercontent.com/64120482/235433476-f741d663-2a87-495a-b1aa-6ef5bcf77cb9.png)
+
 Be aware that the bigger the board size gets, the longer this solution will take. ( best wroks within the range of 3-7)
+
 
 **Note 5:** the SDK/JDK is set to oracle LTS 17.0.5 but feel free to try it with newer or older JAVA versions.
 
