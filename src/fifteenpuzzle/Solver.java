@@ -428,7 +428,7 @@ public class Solver {
 
 		// Set up the File type variables from the arguments provided by the user
 		// reads the first input which is the board
-		// TYPE 1 : uncomment the bellow 3 lines
+		// TYPE 1 : uncomment the bellow 3 lines and comment the line 439-441
 
 		// File input = new File(args[0]);
 		// Solver compute = new Solver(input);
