@@ -51,6 +51,6 @@ follow the TYPE 1, which is uncommenting the lines 433-435 and commenting the li
  
  
 
-* **Results for the following project/ application are written in the pdf file below:**
+* **Reflections and resutls for the following project/ application are written in the pdf file below:**
 
 https://drive.google.com/file/d/1UrZMYWc7-BuABHP-wrg22Ixtask7Cqa-/view?usp=sharing
