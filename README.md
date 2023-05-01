@@ -18,6 +18,7 @@ Be aware that the bigger the board size gets, the longer this solution will take
 **Note 5:** the SDK/JDK is set to oracle LTS 17.0.5 but feel free to try it with newer or older JAVA versions.
 
 
+*
 ![image](https://user-images.githubusercontent.com/64120482/235431919-dbcc2bda-ebc8-4181-8f4f-05aa9994e0ed.png)
 
 **Step 1**: After downloading, Move to the src/fifteenpuzzle/Solver.java 
