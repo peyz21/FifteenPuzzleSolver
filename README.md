@@ -1,5 +1,5 @@
 # FifteenPuzzleSolver (N-Puzzle Solver)
-This Repository contains a experimental solver for fifteen-puzzle To be specific, the NxN sliding puzzle solver in JAVA written by my Partenr and Myself. The program uses a specific version of Kruskal Algorithm  mainly known by A* algorithm with 3 different heuristics to obtain the result. It uses Greedy version of the A* algorithm ( also known as Pure-Heurisitc) along side of different a combination of heuristics in order to achieve a realtively fast solution for a given board (aproxiamtely less than 30 seconds). The solver then produce a solution direction in a given format for each given board.
+This Repository contains an experimental solver for fifteen-puzzle To be specific, the NxN sliding puzzle solver in JAVA written by my Partenr and Myself. The program uses a specific version of Kruskal Algorithm  mainly known by A* algorithm with 3 different heuristics to obtain the result. It uses Greedy version of the A* algorithm ( also known as Pure-Heurisitc) along side of different a combination of heuristics in order to achieve a realtively fast solution for a given board (aproxiamtely less than 30 seconds). The solver then produce a solution direction in a given format for each given board.
 
 **Note 1**: This program does not focus on the optimality rather it focuses on more cases solved.
 
