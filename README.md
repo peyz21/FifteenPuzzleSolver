@@ -24,7 +24,9 @@ Example board1Soution.txt:
      3.1: Geneartion of the solution by passing parameters to the main while running through IDE:
      The main method takes 1 variable an array of strings, more specifically  of size 2 file names: "Board Name", "Solution Board Name" and their relative path. 
      follow the TYPE 1, which is uncommenting the lines 433-435 and commenting the lines 439-441, then in your IDE give the main() following parameters:
+     
      ![image](https://user-images.githubusercontent.com/64120482/235429929-0b07eb07-3847-497a-b813-af5c20554e3e.png) 
+     
      then run the application.
      
      3.2: Manually editing the code: 
