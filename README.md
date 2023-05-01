@@ -36,14 +36,14 @@ follow the TYPE 1, which is uncommenting the lines 433-435 and commenting the li
     
  ![image](https://user-images.githubusercontent.com/64120482/235429929-0b07eb07-3847-497a-b813-af5c20554e3e.png) 
      
- then run the application.
+ then save and run the application.
      
 **-3.2:**  Manually editing the code: 
  Follow the TYPE 2, by changing the name and path of the board name in "Input" decleration and the solution board name in the "FileName" decleration:
      
  ![image](https://user-images.githubusercontent.com/64120482/235430632-2d3e4a71-81b9-468b-a03e-42b900c7ce94.png)
  
- then run the application.
+ then save and run the application.
  
  
 
