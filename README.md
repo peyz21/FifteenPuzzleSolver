@@ -15,6 +15,7 @@ Example board1Soution.txt:
 **Note 4:** I included 10 different test cases with various boars sizes less than 9x9, which will work optimally but feel free to add more under the "./testcases". 
 Be aware that the bigger the board size gets, the longer this solution will take. ( best wroks within the range of 3-7)
 
+**Note 5:** the SDK/JDK is set to oracle LTS 17.0.5 but feel free to try it with newer or older JAVA versions.
 
 
 ![image](https://user-images.githubusercontent.com/64120482/235431919-dbcc2bda-ebc8-4181-8f4f-05aa9994e0ed.png)
