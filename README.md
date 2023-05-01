@@ -32,7 +32,7 @@ Be aware that the bigger the board size gets, the longer this solution will take
 **Step 2:** Scroll down to the main() method on line 420. 
 
 **Step 3:** 
-You can follow one of the 2 options in order to produce the board result:
+You can follow 1 of the 2 options in order to produce the board result (3.1 or 3.2):
 
 **-3.1:**  Geneartion of the solution by passing parameters to the main while running through IDE:
 The main method takes 1 variable an array of strings, more specifically  of size 2 file names: "Board Name", "Solution Board Name" and their relative path. 
